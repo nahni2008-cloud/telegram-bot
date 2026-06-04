@@ -11,7 +11,7 @@ import asyncio
 import telebot
 import aiohttp
 
-API_TOKEN = "8689418183:AAFAum43rNBCK64nzZ4Kn-7Cof3QkatplJo" # add bot token via @botfather
+API_TOKEN = "8689418183:AAGsrnpwMkC_bp1hWKK7TN4VlR6Vqn1L_oo" # add bot token via @botfather
 bot = telebot.TeleBot(API_TOKEN)
 
 user_sessions = {}
